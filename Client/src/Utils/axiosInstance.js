@@ -1,5 +1,5 @@
 import axios from 'axios';
-const BASEURL='http://localhost:4000'
+const BASEURL='https://notesapp-backe.onrender.com'
 
 const axiosInstance=axios.create({
     baseURL:BASEURL,
